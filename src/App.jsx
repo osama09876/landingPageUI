@@ -19,7 +19,7 @@ function App() {
               <h5 className="para1 uppercase text-lg  text-orange-600 font-semibold">
                 best destinations around the world
               </h5>
-              <h1 className="text-7xl font-semibold text-[#181E4B] heading">
+              <h1 className="md:text-7xl text-6xl font-semibold text-[#181E4B] heading">
                 Travel,
                 <span className=" border-b-2 border-orange-500">enjoy</span>
                 <br /> and live a new <br /> and full fill
@@ -69,7 +69,7 @@ function App() {
             <h1 className=" text-gray-400 font-semibold text-lg">
               Easy and fast
             </h1>
-            <h1 className=" text-[#14183E] text-5xl font-semibold">
+            <h1 className=" text-[#14183E] md:text-5xl text-4xl font-semibold">
               Book your next trip
               <br /> in 3 easy steps
             </h1>
@@ -167,7 +167,7 @@ function App() {
             <div className=" absolute top-16 right-2 w-20 h-12 border rounded-full border-[#84829A] rotate-45"></div>
             <div className=" absolute top-20 right-2 w-20 h-12 border rounded-full border-[#84829A] rotate-45"></div>
           </div>
-          <div className=" w-48 z-50 h-20  rounded-e-lg bg-[#FFFFFF] shadow-xl absolute top-[230px]  left-44 flex">
+          <div className=" w-44 z-50 h-20  rounded-e-lg bg-[#FFFFFF] shadow-xl absolute top-[230px]  left-44 flex">
             <div className=" w-10 h-10 m-2">
               <img src="/images/mosq.png" alt="" className=" rounded-full" />
             </div>
