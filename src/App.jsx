@@ -11,7 +11,7 @@ import { CiHeart } from "react-icons/ci";
 function App() {
   return (
     <>
-      <div className=" min-h-screen mx-3 hero">
+      <div className=" min-h-screen  hero">
         <Navbar />
         <div className=" flex flex-wrap md:justify-evenly">
           <div className="md:w-[50%] w-full md:relative">
@@ -63,7 +63,7 @@ function App() {
           </div>
         </div>
       </div>
-      <div className=" min-h-screen w-full flex justify-evenly  flex-wrap mx-3">
+      <div className="  min-h-screen w-full flex justify-evenly  flex-wrap px-3">
         <div className=" md:w-[50%] w-full md:relative">
           <div className=" md:absolute left-20">
             <h1 className=" text-gray-400 font-semibold text-lg">
