@@ -36,7 +36,7 @@ const Navbar = () => {
           <ul className=" items-center gap-10 md:flex hidden">
             {navItems.map((item) => (
               <li key={item.id}>
-                <a href="#" className=" font-normal">
+                <a href="#" className=" font-normal text-lg">
                   {item.title}
                 </a>
               </li>
